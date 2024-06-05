@@ -21,7 +21,7 @@ img{
 }
 .section2-image{
 	width: 30%;
-	border: 4px dashed beige;
+	border: 5px solid beige;
 	margin-top: 20px;
 }
 .section2-text{
@@ -106,7 +106,7 @@ img{
 	}
 	.section2-image{
 		width: 100%;
-		border: 8px dashed beige;
+		border: 8px solid beige;
 	}
 	.section2-text{
 		padding-left: 50px;
@@ -174,7 +174,7 @@ img{
 @media screen and (min-width:1024px){
 	.section2-image{
 		width: 40%;
-		border: 10px dashed beige;
+		border: 10px solid beige;
 	}
 	
 }
